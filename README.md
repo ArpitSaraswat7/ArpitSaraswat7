@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Academic/Coding**
 
-- 🌱 I’m currently learning **DBMS,PYTHON,PHP**
+- 🌱 I’m currently learning **IOT,Java,DBMS,PYTHON,PHP,HTM,CSS,JavaScript**
 
 - 👯 I’m looking to collaborate on **Not yet**
 
-- 💬 Ask me about **Python, HTML**
+- 💬 Ask me about **Python,HTML,CSS,JavaScrpit,java,Iot**
 
 - 📫 How to reach me **arpitsaraswat70@gmail.com**
 
