@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Saraswat</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsaraswat7&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsaraswat7" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Academic/Coding**
 
-- 🌱 I’m currently learning **IOT,Java,DBMS,PYTHON,PHP,HTM,CSS,JavaScript**
+- 🌱 I’m currently learning **{IOT},{Java},{DBMS},{PYTHON},{PHP},{HTML},{CSS},{JavaScript},{React},{DSA}**
 
-- 👯 I’m looking to collaborate on **Not yet**
+- 👯 I’m looking to collaborate on **Not Yet**
 
 - 💬 Ask me about **Python,HTML,CSS,JavaScrpit,java,Iot**
 
