@@ -64,7 +64,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitSaraswat7&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+ <img src="https://streak-stats.demolab.com/?user=ArpitSaraswat7&theme=dark" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
@@ -78,9 +79,11 @@
 ---
 
 ### 🎧 Spotify Playing (Demo Screenshot or Live NowPlaying)
-<p align="center">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/ArpitSaraswat7/ArpitSaraswat7/main/screenshot.png" alt="Spotify Screenshot" />
 </p>
+
+
 
 ---
 
