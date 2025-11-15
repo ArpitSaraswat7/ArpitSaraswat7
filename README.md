@@ -78,13 +78,6 @@
 
 ---
 
-### 🎧 Spotify Playing (Demo Screenshot or Live NowPlaying)
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/ArpitSaraswat7/ArpitSaraswat7/main/screenshot.png" alt="Spotify Screenshot" />
-</p>
-
-
-
 ---
 
 ### 📫 How to Reach Me:
